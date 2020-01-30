@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_ml">15sp</dimen>
+    <dimen name="edittext_mr">15sp</dimen>
+    <dimen name="label_result_size">42sp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InitAndroidMVP</string>
+    <string name="placeholder_number">Número</string>
+    <string name="button_addition">Suma</string>
+    <string name="button_subtraction">Resta</string>
+    <string name="button_division">Division</string>
+    <string name="button_multiplication">Multiplicación</string>
+    <string name="register_numbers">No puede dejar campos vacios</string>
+</resources>
